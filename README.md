@@ -3,7 +3,7 @@
 ###简介
 此插件最大的特点就是会检测浏览器是否支持3d加速，如果支持就采用3d加速来实现页面的切换，如果不支持那么就向下降级，采用jQuery的animate函数来实现动画。
 
-###demo延时
+###demo演示
 [单页动画效果](http://itkaoyan.cn/zui/demo/onepagescroll/test/index.html)
 
 ###API
